@@ -42,7 +42,7 @@
 :arrow_up:[к оглавлению](https://github.com/Ariisky/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 ### Этапы работы над проектом
-- Изучаем шаблон шаблон [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) из скринкаста
+- Изучаем шаблон [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) из скринкаста
 - Модифицируем функцию "Угадывания чисел" в части алгоритма поиска загаданного числа
 - Тестируем
 
