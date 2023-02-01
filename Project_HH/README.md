@@ -25,7 +25,7 @@
 Анализируем датасет с вакансиями платформы HeadHunter. Проблематика: часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 
 **Условия задания:**
-- Представлен датасет [baseline](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями.
+- Представлен  [датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями.
 - Данные необходимо преобразовать, исследовать и очистить.
 
 **Метрика качества**
@@ -38,12 +38,12 @@
 
 
 ### Краткая информация о данных
-Представлен датасет [baseline](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями
+Представлен  [датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями
 
 :arrow_up:[к оглавлению](https://github.com/Ariisky/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 ### Этапы работы над проектом
-- Изучаем датасет [baseline](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями
+- Изучаем [датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с вакансиями
 - исследуем структуру данных
 - преобразуем данные
 - исследуем зависимости в данных
